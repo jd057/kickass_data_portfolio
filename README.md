@@ -6,3 +6,5 @@ A portfolio of some of the most interesting Data Analysis &amp; Data Science pro
 # Project 2: Data Analysis in Python for a company that allows you to rent high-end, furnished apartments in over 30 cities. Particularly, about the web activitiy of the users 
 
 # Project 3: Data Analyis in Python & SQL for a q-commerce company, regarding the couriers, the orders, bundles, times and efficiency.
+
+# Project 4: Data Analysis in Python for a company that rents devices, as opposed to selling them.
